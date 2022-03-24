@@ -10,7 +10,7 @@
 #' # url for Iran
 #' url <- 'https://biogeo.ucdavis.edu/data/gadm3.6/shp/gadm36_IRN_shp.zip'
 #' # url for Bahamas
-#' url <- https://geodata.ucdavis.edu/gadm/gadm4.0/shp/gadm40_BHS_shp.zip"
+#' url <- "https://geodata.ucdavis.edu/gadm/gadm4.0/shp/gadm40_BHS_shp.zip"
 #' country <- get_shapes(url)
 #' library(ggplot2)
 #' library(dplyr)
